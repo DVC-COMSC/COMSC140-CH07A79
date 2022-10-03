@@ -16,6 +16,3 @@ print()
 # ******************************
 # Make your Code
 # ******************************
-
-# print the words that has 'a', 'r', 'e' in sequence
-
